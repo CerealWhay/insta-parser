@@ -1,0 +1,31 @@
+/*.log
+/*.mp4
+/*.jpg
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+settings_dump.json
+
+results/
+
+
+# PyCharm
+.idea
+*.iml
+
+
+# Distribution / packaging
+.Python
+*.egg-info/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/

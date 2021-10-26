@@ -1,0 +1,6 @@
+xpath_to_highlights_button = "//div[@class='tUtVM']"
+xpath_to_next_button = "//button[@class='FhutL']/div"
+xpath_to_pause_button = "//button[@class='wpO6b  ']"
+xpath_to_photo = "//div[@class='qbCDp']//img"
+xpath_to_video = "//div[@class='qbCDp']//video/source"
+xpath_to_media_name = "//div[@class='Rkqev ']//a"
